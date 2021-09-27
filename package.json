@@ -1,6 +1,6 @@
 {
-  "name": "notes-app-back-end",
-  "version": "1.0.0",
+  "name": "notes-app-back-end-v2",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@hapi/hapi": "^20.1.0",
+    "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
     "joi": "^17.4.2",
     "nanoid": "^3.1.25",
